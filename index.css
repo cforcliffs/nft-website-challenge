@@ -1,0 +1,51 @@
+
+@media screen and (min-width: 375px){
+
+
+
+  body{
+
+    margin: 0;
+    font-size: 0.75rem;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "Roboto", sans-serif;
+    font-variation-settings:
+    "wdth" 100;
+    color: #2b283a;
+
+  }
+
+  header{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet; 
+    width: 100%;
+    text-align: center;
+    color: white;
+  }
+  
+
+
+.nft-sneakers{
+
+  display: inline;
+margin: 2rem;
+
+}
+
+img{
+
+height: 330px;
+width: 330px;
+
+}
+
+
+}
+
+
